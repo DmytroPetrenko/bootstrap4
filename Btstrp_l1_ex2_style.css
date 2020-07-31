@@ -1,0 +1,17 @@
+.container {
+  background: green;
+  height: 800px;
+  
+}
+
+.row :nth-child(n){
+  background: greenyellow;
+  height: 150px;
+  border: 1px solid #000000;
+}
+
+.col-12 {
+  background: honeydew;
+  height: 100px;
+}
+
