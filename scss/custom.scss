@@ -1,0 +1,8 @@
+// Custom.scss
+// Option A: Подключите весь Bootstrap
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$sizes:(
+    "w-45": 45%
+);
